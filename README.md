@@ -1,0 +1,1 @@
+# Get Ready For FAANG in 6 Months
