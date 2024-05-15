@@ -4,14 +4,14 @@
 
 > <p align="center">This is a 6-Month Roadmap that I will be using to get myself ready for FAANG interviews of any other other interviews of the same caliber</p>
 
-## <p>Month 1</p>
+## <p align="center">Month 1</p>
 
-## <p>Month 2</p>
+## <p align="center">Month 2</p>
 
-## <p>Month 3</p>
+## <p align="center">Month 3</p>
 
-## <p>Month 4</p>
+## <p align="center">Month 4</p>
 
-## <p>Month 5</p>
+## <p align="center">Month 5</p>
 
-## <p>Month 6</p>
+## <p align="center">Month 6</p>
