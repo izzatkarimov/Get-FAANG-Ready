@@ -5,14 +5,13 @@
 > <p align="center">This is a 6-Month Roadmap that I will be using to get myself ready for FAANG interviews of any other other interviews of the same caliber</p>
 
 ## <p>Month 1</p>
-<hr>
+
 ## <p>Month 2</p>
-<hr>
+
 ## <p>Month 3</p>
-<hr>
+
 ## <p>Month 4</p>
-<hr>
+
 ## <p>Month 5</p>
-<hr>
+
 ## <p>Month 6</p>
-<hr>
