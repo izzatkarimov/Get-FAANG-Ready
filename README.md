@@ -30,5 +30,5 @@
 
 <div align="center">
 <pre>
-Izzat Karimov
+&copy; 2024 Izzat Karimov
 </pre>
