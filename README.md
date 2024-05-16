@@ -10,20 +10,20 @@
 
 ## <p align="center">Month 2</p>
 
-> <p align="center">The following is the plan for Month 1</p>
+> <p align="center">The following is the plan for Month 2</p>
 
 ## <p align="center">Month 3</p>
 
-> <p align="center">The following is the plan for Month 1</p>
+> <p align="center">The following is the plan for Month 3</p>
 
 ## <p align="center">Month 4</p>
 
-> <p align="center">The following is the plan for Month 1</p>
+> <p align="center">The following is the plan for Month 4</p>
 
 ## <p align="center">Month 5</p>
 
-> <p align="center">The following is the plan for Month 1</p>
+> <p align="center">The following is the plan for Month 5</p>
 
 ## <p align="center">Month 6</p>
 
-> <p align="center">The following is the plan for Month 1</p>
+> <p align="center">The following is the plan for Month 6</p>
