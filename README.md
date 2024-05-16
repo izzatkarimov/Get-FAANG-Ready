@@ -27,3 +27,8 @@
 ## <p align="center">Month 6</p>
 
 > <p align="center">The following is the plan for Month 6</p>
+
+<div align="center">
+<pre>
+Izzat Karimov
+</pre>
