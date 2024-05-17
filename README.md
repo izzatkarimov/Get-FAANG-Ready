@@ -13,7 +13,7 @@
 ## <p align="center">Month 2</p>
 > <p align="center">The following is the plan for Month 2</p>
 
-- [ ] Finish the Coding Project
+- [ ] Finish the Project
 - [ ] Start Blind 75 LeetCode Questions (One a Day)
 
 ## <p align="center">Month 3</p>
