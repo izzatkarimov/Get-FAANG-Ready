@@ -11,25 +11,25 @@
 - [ ] Learn Data Structures & Algorithms
 
 ## <p align="center">Month 2</p>
-> <p align="center">The following is the plan for Month 2</p>
+#### The Following is the Plan for Month 2
 
 - [ ] Finish the Project
 - [ ] Start Blind 75 LeetCode Questions (One a Day)
 
 ## <p align="center">Month 3</p>
-> <p align="center">The following is the plan for Month 3</p>
+#### The Following is the Plan for Month 3
 
 - [ ] Start AWS Cloud Practitioner Certificate Preparation
 - [ ] Start Oracle Certified Professional, Java SE 8 Programmer Preparation
 
 ## <p align="center">Month 4</p>
-> <p align="center">The following is the plan for Month 4</p>
+#### The Following is the Plan for Month 4
 
 ## <p align="center">Month 5</p>
-> <p align="center">The following is the plan for Month 5</p>
+#### The Following is the Plan for Month 5
 
 ## <p align="center">Month 6</p>
-> <p align="center">The following is the plan for Month 6</p>
+#### The Following is the Plan for Month 6
 
 <div align="center">
 <pre>
