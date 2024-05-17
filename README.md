@@ -7,11 +7,20 @@
 ## <p align="center">Month 1</p>
 > <p align="center">The following is the plan for Month 1</p>
 
+[ ] Coding Project
+[ ] Learn Data Structures & Algorithms
+
 ## <p align="center">Month 2</p>
 > <p align="center">The following is the plan for Month 2</p>
 
+[ ] Finish the Coding Project
+[ ] Start Blind 75 LeetCode Questions (One a Day)
+
 ## <p align="center">Month 3</p>
 > <p align="center">The following is the plan for Month 3</p>
+
+[ ] Start AWS Cloud Practitioner Certificate Preparation
+[ ] Start Oracle Certified Professional, Java SE 8 Programmer Preparation
 
 ## <p align="center">Month 4</p>
 > <p align="center">The following is the plan for Month 4</p>
