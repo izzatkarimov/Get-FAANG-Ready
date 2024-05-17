@@ -5,7 +5,7 @@
 > <p align="center">This is a 6-Month Roadmap that I will be using to get myself ready for FAANG interviews of any other other interviews of the same caliber</p>
 
 ## <p align="center">Month 1</p>
-<p>The following is the plan for Month 2</p>
+### The Following is the Plan for Month 1
 
 - [ ] A New Project
 - [ ] Learn Data Structures & Algorithms
