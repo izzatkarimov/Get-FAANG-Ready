@@ -7,7 +7,7 @@
 ## <p align="center">Month 1</p>
 > <p align="center">The following is the plan for Month 1</p>
 
-- [X] Coding Project
+- [ ] A New Project
 - [ ] Learn Data Structures & Algorithms
 
 ## <p align="center">Month 2</p>
