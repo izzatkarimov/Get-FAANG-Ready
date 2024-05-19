@@ -19,17 +19,27 @@
 ## <p align="center">Month 3</p>
 #### The Following is the Plan for Month 3
 
+- [ ] Start the Second Project
 - [ ] Start AWS Cloud Practitioner Certificate Preparation
 - [ ] Start Oracle Certified Professional, Java SE 8 Programmer Preparation
 
 ## <p align="center">Month 4</p>
 #### The Following is the Plan for Month 4
 
+- [ ] Get the AWS Cloud Practitioner Certificate Preparation
+- [ ] Get the Oracle Certified Professional, Java SE 8 Programmer Preparation
+
 ## <p align="center">Month 5</p>
 #### The Following is the Plan for Month 5
 
+- [ ] Finish the Second Project
+- [ ] Finish NeetCode 150
+
 ## <p align="center">Month 6</p>
 #### The Following is the Plan for Month 6
+
+- [ ] Start Applying
+- [ ] Practice Interviewing on Pramp
 
 <div align="center">
 <pre>
