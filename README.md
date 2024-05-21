@@ -8,8 +8,8 @@
 ### The Following is the Plan for Month 1
 
 - [ ] Start a New Project
-      - The Project should follow the  Software Development Cycle
-      - The Project should not take less than 2 weeks to make, meaning that it should be relatively challenging
+The Project should follow the  Software Development Cycle
+The Project should not take less than 2 weeks to make, meaning that it should be relatively challenging
 - [ ] Learn Data Structures & Algorithms
 
 ## <p align="center">Month 2</p>
