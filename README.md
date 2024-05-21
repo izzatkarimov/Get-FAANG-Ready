@@ -10,7 +10,9 @@
 - [ ] Start a New Project
 * The Project should follow the  Software Development Cycle
 * The Project should not take less than 2 weeks to make, meaning that it should be relatively challenging
-- [ ] Learn Data Structures & Algorithms
+- [ ] Start Learning Data Structures & Algorithms
+* Start with [Data Structures and Algorithms in Python - Full Course for Beginners](https://youtu.be/pkYVOmU3MgA?si=lKkTfrQmBJ7sjzle)
+* Take the Neetcode Data Structures * Algorithms Courses (both Beginner and Advanced)
 
 ## <p align="center">Month 2</p>
 #### The Following is the Plan for Month 2
