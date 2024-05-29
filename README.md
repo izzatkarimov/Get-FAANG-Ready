@@ -8,7 +8,8 @@
 ### The Following is the Plan for Month 1
 
 - [ ] <b>Start a New Project</b>
-* Start Learning a New Technology
+* Any Technology that you're interested in or that is high in demand
+- [ ] <b>Start a New Project</b>
 * The Project should follow the  Software Development Cycle
 * The Project should not take less than 2 weeks to make, meaning that it should be relatively challenging
 - [ ] <b>Start Learning Data Structures & Algorithms</b>
