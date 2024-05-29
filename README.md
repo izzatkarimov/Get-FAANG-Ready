@@ -7,7 +7,7 @@
 ## <p align="center">Month 1</p>
 ### The Following is the Plan for Month 1
 
-- [ ] <b>Start a New Project</b>
+- [ ] <b>Start Learning a New Technology</b>
 * Any Technology that you're interested in or that is high in demand
 - [ ] <b>Start a New Project</b>
 * The Project should follow the  Software Development Cycle
