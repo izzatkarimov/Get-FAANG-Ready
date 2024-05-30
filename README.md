@@ -5,7 +5,7 @@
 <p align="center">This is a 6-Month Roadmap that I will be using to get ready for FAANG-level interviews</p>
 
 ## <p align="center">Month 1</p>
-- [ ] <b>`Start Learning a New Technology`</b>
+- [ ] <b color="red">`Start Learning a New Technology`</b>
 - Any Technology that you're interested in or that is high in demand.
 - [ ] <b>Start a New Project</b>
 * The Project should follow the  Software Development Cycle.
