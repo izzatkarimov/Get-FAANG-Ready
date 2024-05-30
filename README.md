@@ -19,41 +19,41 @@
 
 ## <p align="center">Month 2</p>
 
-- [ ] Finish the Project
+### Finish the Project
 - By Month 2, you should finish the project that you started in Month 1.
-- [ ] Start Blind 75 NeetCode Questions (One Problem a Day)
+### Start Blind 75 NeetCode Questions (One Problem a Day)
 - Solve at least 1 problem a day from the NeetCode Bline 75 questions and really try to understand, analyze, and learn from each one. Remember to be consistent - Consistency is the key.
 
 ---
 
 ## <p align="center">Month 3</p>
 
-- [ ] Start the Second Project
+### Start the Second Project
 - Start your second project. Ideally, this project should be even more challenging than the previous one.
-- [ ] Start AWS Cloud Practitioner Certificate Preparation
+### Start AWS Cloud Practitioner Certificate Preparation
 - Take this course on Udemy: [Ultimate AWS Certified Cloud Practitioner CLF-C02](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/?couponCode=24T3MT53024)
-- [ ] Start Oracle Certified Professional, Java SE 8 Programmer Preparation
+### Start Oracle Certified Professional, Java SE 8 Programmer Preparation
 
 ---
 
 ## <p align="center">Month 4</p>
 
-- [ ] Obtain the AWS Cloud Practitioner Certificate
-- [ ] Obtain the Oracle Certified Professional, Java SE 8 Programmer Certificate
+### Obtain the AWS Cloud Practitioner Certificate
+### Obtain the Oracle Certified Professional, Java SE 8 Programmer Certificate
 
 ---
 
 ## <p align="center">Month 5</p>
 
-- [ ] Finish the Second Project
-- [ ] Finish NeetCode 150
+### Finish the Second Project
+### Finish NeetCode 150
 
 ---
 
 ## <p align="center">Month 6</p>
 
-- [ ] Start Applying for Jobs
-- [ ] Practice Interviewing on Pramp
+### Start Applying for Jobs
+### Practice Interviewing on Pramp
 
 ---
 
