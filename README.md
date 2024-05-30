@@ -5,14 +5,16 @@
 <p align="center">This is a 6-Month Roadmap that I will be using to get ready for FAANG-level interviews</p>
 
 ## <p align="center">Month 1</p>
-- [ ] <b background-color="red">`Start Learning a New Technology`</b>
-- Any Technology that you're interested in or that is high in demand.
-- [ ] <b>Start a New Project</b>
-* The Project should follow the  Software Development Cycle.
-* The Project should not take less than 2 weeks to make, meaning that it should be relatively challenging.
-- [ ] <b>Start Learning Data Structures & Algorithms</b>
-* Start with [Data Structures and Algorithms in Python - Full Course for Beginners](https://youtu.be/pkYVOmU3MgA?si=lKkTfrQmBJ7sjzle)
-* Take the [Neetcode Data Structures * Algorithms Courses (both Beginner & Advanced)](https://neetcode.io/courses)
+- [ ] <b>`Start Learning a New Technology`</b>
+ Start learning any technology that interests you or that is high in demand.
+<br>
+- [ ] <b>`Start a New Project`</b>
+The Project should follow the  Software Development Cycle.
+The Project should not take less than 2 weeks to make, meaning that it should be relatively challenging.
+<br>
+- [ ] <b>`Start Learning Data Structures & Algorithm`s</b>
+Start with [Data Structures and Algorithms in Python - Full Course for Beginners](https://youtu.be/pkYVOmU3MgA?si=lKkTfrQmBJ7sjzle)
+Then, move on to the [Neetcode Data Structures * Algorithms Courses (both Beginner & Advanced)](https://neetcode.io/courses)
 
 ## <p align="center">Month 2</p>
 - [ ] Finish the Project
