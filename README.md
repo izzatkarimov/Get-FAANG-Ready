@@ -3,10 +3,7 @@
 <img width="19200" alt="1691563778905" src="https://github.com/izzatkarimov/Get-FAANG-Ready/assets/108251704/46d43d44-27b6-441f-aa15-b7359c4c9428">
 
 ---
-
 This is a 6-Month Roadmap that I will be using to get ready for FAANG-level interviews.
-
----
 
 ## <p align="center">Month 1</p>
 
