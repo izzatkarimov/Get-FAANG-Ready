@@ -62,9 +62,3 @@ This is a 6-Month Roadmap that I will be using to get ready for FAANG-level inte
 </pre>
 </div>
 
----
-
-<div align="center">
-  <img src="https://img.shields.io/badge/status-active-brightgreen" alt="Project Status: Active">
-  <img src="https://img.shields.io/badge/contributions-welcome-brightgreen" alt="Contributions: Welcome">
-</div>
