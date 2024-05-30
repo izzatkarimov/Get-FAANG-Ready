@@ -64,21 +64,6 @@ This is a 6-Month Roadmap that I will be using to get ready for FAANG-level inte
 
 ---
 
-### Additional Resources
-- [LeetCode](https://leetcode.com/)
-- [HackerRank](https://www.hackerrank.com/)
-- [GeeksforGeeks](https://www.geeksforgeeks.org/)
-- [AWS Training and Certification](https://aws.amazon.com/training/)
-- [Oracle Certification](https://education.oracle.com/oracle-certification)
-
-### Contact
-For any questions or feedback, feel free to reach out at [your email] or create an issue on this repository.
-
-### Contributions
-Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTING.md) before submitting a pull request.
-
----
-
 <div align="center">
   <img src="https://img.shields.io/badge/status-active-brightgreen" alt="Project Status: Active">
   <img src="https://img.shields.io/badge/contributions-welcome-brightgreen" alt="Contributions: Welcome">
