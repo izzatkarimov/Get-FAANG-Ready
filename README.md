@@ -16,6 +16,14 @@ This is a 6-Month Roadmap that I will be using to get ready for FAANG-level inte
 * Start with [Data Structures and Algorithms in Python - Full Course for Beginners](https://youtu.be/pkYVOmU3MgA?si=lKkTfrQmBJ7sjzle)
 * Move on to the [Neetcode Data Structures * Algorithms Courses (both Beginner & Advanced)](https://neetcode.io/courses)
 
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+
 ## <p align="center">Month 2</p>
 - [ ] Finish the Project
 - [ ] Start Blind 75 LeetCode Questions (One a Day)
