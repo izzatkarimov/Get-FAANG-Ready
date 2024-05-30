@@ -12,7 +12,7 @@ This is a 6-Month Roadmap that I will be using to get ready for FAANG-level inte
 * The Project should follow the  Software Development Cycle.
 * The Project should not take less than 2 weeks to make, meaning that it should be relatively challenging.
 
-- [ ] <b>`Start Learning Data Structures & Algorithm`s</b>
+- [ ] <b>`Start Learning Data Structures & Algorithms`</b>
 * Start with [Data Structures and Algorithms in Python - Full Course for Beginners](https://youtu.be/pkYVOmU3MgA?si=lKkTfrQmBJ7sjzle)
 * Move on to the [Neetcode Data Structures * Algorithms Courses (both Beginner & Advanced)](https://neetcode.io/courses)
 
