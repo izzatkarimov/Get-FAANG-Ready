@@ -37,7 +37,7 @@
 - Take this course on Udemy: [Ultimate AWS Certified Cloud Practitioner CLF-C02](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/?couponCode=24T3MT53024)
 ### Start Oracle Certified Professional, Java SE 8 Programmer Preparation
 ### NeetCode 150 Questions
-- By this point, you definitely should have finished NeetCode 75. So, either continue NeetCode 150 or move on to solving NeetCode All.
+- By this point, you definitely should have finished [Blind 75 Questions](https://neetcode.io/practice). So, either continue [NeetCode 150](https://neetcode.io/practice) or move on to solving NeetCode All.
 
 ---
 
