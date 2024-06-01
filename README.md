@@ -10,7 +10,9 @@
 ### Start Learning Data Structures & Algorithms
 - Start with [Data Structures and Algorithms in Python - Full Course for Beginners](https://youtu.be/pkYVOmU3MgA?si=lKkTfrQmBJ7sjzle)
 - Move on to the [Neetcode Data Structures & Algorithms Courses (both Beginner & Advanced)](https://neetcode.io/courses)
-- At this point, feel free to take more courses if you believe that there is a need for that.
+- At this point, feel free to take more courses if you believe that there is a need for that. You can look up [Data Structures & Algorithms Notes Repository](https://github.com/izzatkarimov/DSA-Notes) to find more resources.
+
+### Blind 75 NeetCode Questions
 - If you can finish the courses by the end of the month, start solving NeetCode Blind 75 Questions.
 
 ---
@@ -28,32 +30,33 @@
 
 ## <p align="center">Month 3</p>
 
-### Start the Second Project
-- Start your second project. Ideally, this project should be even more challenging than the previous one.
+### Start Second Project
+- If you have finished the first project, now you can move on to the Second One. The Second Project should be more complicated than the first one and should ideally make use of the technology / technologies that you decided to learn in Month 1.
+- If you have no managed to finish the first project, continue to work on that project in this month as well.
 ### Start AWS Cloud Practitioner Certificate Preparation
 - Take this course on Udemy: [Ultimate AWS Certified Cloud Practitioner CLF-C02](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/?couponCode=24T3MT53024)
 ### Start Oracle Certified Professional, Java SE 8 Programmer Preparation
+### NeetCode 150 Questions
+- By this point, you definitely should have finished NeetCode 75. So, either continue NeetCode 150 or move on to solving NeetCode All.
 
 ---
 
 ## <p align="center">Month 4</p>
+
+
+
+---
+
+## <p align="center">Month 5</p>
 
 ### Obtain the AWS Cloud Practitioner Certificate
 ### Obtain the Oracle Certified Professional, Java SE 8 Programmer Certificate
 
 ---
 
-## <p align="center">Month 5</p>
-
-### Finish the Second Project
-### Finish NeetCode 150
-
----
-
 ## <p align="center">Month 6</p>
 
-### Start Applying for Jobs
-### Practice Interviewing on Pramp
+
 
 ---
 
