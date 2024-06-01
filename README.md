@@ -24,7 +24,7 @@
 ### Start a Project for your Resume
 - Start a Project that is fairly complicated and that ideally follow the Development Cycle. This project is not inteded for learning purposes and should be worthy of being included in a resume.
 ### Blind 75 NeetCode Questions
-- At this point, depending on how many problems you were solving in the first month, you may or may not have finished the questions. If you have, great! Move on to NeetCode 150. If you have not, keep on solving at least one question from this set of questions.
+- At this point, depending on how many problems you were solving in the first month, you may or may not have finished the questions. If you have, great! Move on to [NeetCode 150](https://neetcode.io/practice). If you have not, keep on solving at least one question from this set of questions.
 
 ---
 
