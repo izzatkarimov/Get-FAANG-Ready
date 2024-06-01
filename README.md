@@ -13,7 +13,7 @@
 - At this point, feel free to take more courses if you believe that there is a need for that. You can look up [Data Structures & Algorithms Notes Repository](https://github.com/izzatkarimov/DSA-Notes) to find more resources.
 
 ### Blind 75 NeetCode Questions
-- If you can finish the courses by the end of the month, start solving NeetCode Blind 75 Questions.
+- If you can finish the courses by the end of the month, start solving NeetCode [Blind 75 Questions](https://neetcode.io/practice).
 
 ---
 
