@@ -8,7 +8,7 @@
 - Start learning any technology that interests you or that is high in demand.
 
 ### Start Learning Data Structures & Algorithms
-- Start with [Data Structures and Algorithms in Python - Full Course for Beginners](https://youtu.be/pkYVOmU3MgA?si=lKkTfrQmBJ7sjzle)
+- Start with [Data Structures and Algorithms in Python - Full Course for Beginners]([https://youtu.be/pkYVOmU3MgA?si=lKkTfrQmBJ7sjzle](https://youtu.be/8hly31xKli0?si=WUqShIS1QQFYOmyR))
 - Move on to the [Neetcode Data Structures & Algorithms Courses (both Beginner & Advanced)](https://neetcode.io/courses)
 - At this point, feel free to take more courses if you believe that there is a need for that. You can look up [Data Structures & Algorithms Notes Repository](https://github.com/izzatkarimov/DSA-Notes) to find more resources.
 
