@@ -60,9 +60,3 @@
 
 ---
 
-<div align="center">
-<pre>
-&copy; 2024 Izzat Karimov
-</pre>
-</div>
-
